@@ -92,7 +92,7 @@
   
   <svelte:head>
     <title>Kiosco CafeExpress en SvelteKit y Supabase</title>
-    <meta name="description" content="Kiosco CafeExpress en SvelteKit y Supabase" />
+    <meta name="description" content="Regaleria - Tienda" />
   </svelte:head>
 
 {#if showSkeleton || loading}
@@ -184,4 +184,5 @@
   .fade-in.loaded {
     opacity: 1;
   }
+
 </style>
