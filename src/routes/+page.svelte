@@ -91,7 +91,7 @@
   </script>
   
   <svelte:head>
-    <title>Kiosco CafeExpress en SvelteKit y Supabase</title>
+    <title>Regalaría - Tienda</title>
     <meta name="description" content="Regaleria - Tienda" />
   </svelte:head>
 
@@ -186,3 +186,4 @@
   }
 
 </style>
+
